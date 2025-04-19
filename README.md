@@ -20,7 +20,7 @@ Proyek ini merupakan implementasi dari tugas ujian teknikal Frontend Developer d
 
 ### Login Page
 
-- Form login dengan validasi input (Email dan Password)
+- Form login dengan validasi input (Username dan Password)
 - Menangani response sukses dan error dari API
 - Menampilkan modal peringatan saat password salah
 - Redirect ke halaman Home setelah login berhasil
